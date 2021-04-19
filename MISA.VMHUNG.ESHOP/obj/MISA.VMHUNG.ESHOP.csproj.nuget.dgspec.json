@@ -1,21 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "F:\\vmhung\\BTL clone 2\\e-shop-api\\MISA.VMHUNG.ESHOP\\MISA.VMHUNG.ESHOP.csproj": {}
+    "D:\\Code\\BTL 2\\e-shop-api-final\\MISA.VMHUNG.ESHOP\\MISA.VMHUNG.ESHOP.csproj": {}
   },
   "projects": {
-    "F:\\vmhung\\BTL clone 2\\e-shop-api\\MISA.VMHUNG.Core\\MISA.VMHUNG.Core.csproj": {
+    "D:\\Code\\BTL 2\\e-shop-api-final\\MISA.VMHUNG.Core\\MISA.VMHUNG.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\vmhung\\BTL clone 2\\e-shop-api\\MISA.VMHUNG.Core\\MISA.VMHUNG.Core.csproj",
+        "projectUniqueName": "D:\\Code\\BTL 2\\e-shop-api-final\\MISA.VMHUNG.Core\\MISA.VMHUNG.Core.csproj",
         "projectName": "MISA.VMHUNG.Core",
-        "projectPath": "F:\\vmhung\\BTL clone 2\\e-shop-api\\MISA.VMHUNG.Core\\MISA.VMHUNG.Core.csproj",
-        "packagesPath": "C:\\Users\\vmhung\\.nuget\\packages\\",
-        "outputPath": "F:\\vmhung\\BTL clone 2\\e-shop-api\\MISA.VMHUNG.Core\\obj\\",
+        "projectPath": "D:\\Code\\BTL 2\\e-shop-api-final\\MISA.VMHUNG.Core\\MISA.VMHUNG.Core.csproj",
+        "packagesPath": "C:\\Users\\hungv\\.nuget\\packages\\",
+        "outputPath": "D:\\Code\\BTL 2\\e-shop-api-final\\MISA.VMHUNG.Core\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "C:\\Users\\vmhung\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\hungv\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -64,22 +68,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "F:\\vmhung\\BTL clone 2\\e-shop-api\\MISA.VMHUNG.ESHOP\\MISA.VMHUNG.ESHOP.csproj": {
+    "D:\\Code\\BTL 2\\e-shop-api-final\\MISA.VMHUNG.ESHOP\\MISA.VMHUNG.ESHOP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\vmhung\\BTL clone 2\\e-shop-api\\MISA.VMHUNG.ESHOP\\MISA.VMHUNG.ESHOP.csproj",
+        "projectUniqueName": "D:\\Code\\BTL 2\\e-shop-api-final\\MISA.VMHUNG.ESHOP\\MISA.VMHUNG.ESHOP.csproj",
         "projectName": "MISA.VMHUNG.ESHOP",
-        "projectPath": "F:\\vmhung\\BTL clone 2\\e-shop-api\\MISA.VMHUNG.ESHOP\\MISA.VMHUNG.ESHOP.csproj",
-        "packagesPath": "C:\\Users\\vmhung\\.nuget\\packages\\",
-        "outputPath": "F:\\vmhung\\BTL clone 2\\e-shop-api\\MISA.VMHUNG.ESHOP\\obj\\",
+        "projectPath": "D:\\Code\\BTL 2\\e-shop-api-final\\MISA.VMHUNG.ESHOP\\MISA.VMHUNG.ESHOP.csproj",
+        "packagesPath": "C:\\Users\\hungv\\.nuget\\packages\\",
+        "outputPath": "D:\\Code\\BTL 2\\e-shop-api-final\\MISA.VMHUNG.ESHOP\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "C:\\Users\\vmhung\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\hungv\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -92,11 +100,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "F:\\vmhung\\BTL clone 2\\e-shop-api\\MISA.VMHUNG.Core\\MISA.VMHUNG.Core.csproj": {
-                "projectPath": "F:\\vmhung\\BTL clone 2\\e-shop-api\\MISA.VMHUNG.Core\\MISA.VMHUNG.Core.csproj"
+              "D:\\Code\\BTL 2\\e-shop-api-final\\MISA.VMHUNG.Core\\MISA.VMHUNG.Core.csproj": {
+                "projectPath": "D:\\Code\\BTL 2\\e-shop-api-final\\MISA.VMHUNG.Core\\MISA.VMHUNG.Core.csproj"
               },
-              "F:\\vmhung\\BTL clone 2\\e-shop-api\\MISA.VMHUNG.Infrastructure\\MISA.VMHUNG.Infrastructure.csproj": {
-                "projectPath": "F:\\vmhung\\BTL clone 2\\e-shop-api\\MISA.VMHUNG.Infrastructure\\MISA.VMHUNG.Infrastructure.csproj"
+              "D:\\Code\\BTL 2\\e-shop-api-final\\MISA.VMHUNG.Infrastructure\\MISA.VMHUNG.Infrastructure.csproj": {
+                "projectPath": "D:\\Code\\BTL 2\\e-shop-api-final\\MISA.VMHUNG.Infrastructure\\MISA.VMHUNG.Infrastructure.csproj"
               }
             }
           }
@@ -142,22 +150,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "F:\\vmhung\\BTL clone 2\\e-shop-api\\MISA.VMHUNG.Infrastructure\\MISA.VMHUNG.Infrastructure.csproj": {
+    "D:\\Code\\BTL 2\\e-shop-api-final\\MISA.VMHUNG.Infrastructure\\MISA.VMHUNG.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\vmhung\\BTL clone 2\\e-shop-api\\MISA.VMHUNG.Infrastructure\\MISA.VMHUNG.Infrastructure.csproj",
+        "projectUniqueName": "D:\\Code\\BTL 2\\e-shop-api-final\\MISA.VMHUNG.Infrastructure\\MISA.VMHUNG.Infrastructure.csproj",
         "projectName": "MISA.VMHUNG.Infrastructure",
-        "projectPath": "F:\\vmhung\\BTL clone 2\\e-shop-api\\MISA.VMHUNG.Infrastructure\\MISA.VMHUNG.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\vmhung\\.nuget\\packages\\",
-        "outputPath": "F:\\vmhung\\BTL clone 2\\e-shop-api\\MISA.VMHUNG.Infrastructure\\obj\\",
+        "projectPath": "D:\\Code\\BTL 2\\e-shop-api-final\\MISA.VMHUNG.Infrastructure\\MISA.VMHUNG.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\hungv\\.nuget\\packages\\",
+        "outputPath": "D:\\Code\\BTL 2\\e-shop-api-final\\MISA.VMHUNG.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "C:\\Users\\vmhung\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\hungv\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -170,8 +182,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "F:\\vmhung\\BTL clone 2\\e-shop-api\\MISA.VMHUNG.Core\\MISA.VMHUNG.Core.csproj": {
-                "projectPath": "F:\\vmhung\\BTL clone 2\\e-shop-api\\MISA.VMHUNG.Core\\MISA.VMHUNG.Core.csproj"
+              "D:\\Code\\BTL 2\\e-shop-api-final\\MISA.VMHUNG.Core\\MISA.VMHUNG.Core.csproj": {
+                "projectPath": "D:\\Code\\BTL 2\\e-shop-api-final\\MISA.VMHUNG.Core\\MISA.VMHUNG.Core.csproj"
               }
             }
           }
@@ -210,7 +222,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }

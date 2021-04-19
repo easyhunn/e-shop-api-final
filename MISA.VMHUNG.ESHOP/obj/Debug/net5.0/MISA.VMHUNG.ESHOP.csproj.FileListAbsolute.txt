@@ -103,3 +103,38 @@ F:\vmhung\BTL clone 2\e-shop-api\MISA.VMHUNG.ESHOP\obj\Debug\net5.0\MISA.VMHUNG.
 F:\vmhung\BTL clone 2\e-shop-api\MISA.VMHUNG.ESHOP\obj\Debug\net5.0\ref\MISA.VMHUNG.ESHOP.dll
 F:\vmhung\BTL clone 2\e-shop-api\MISA.VMHUNG.ESHOP\obj\Debug\net5.0\MISA.VMHUNG.ESHOP.pdb
 F:\vmhung\BTL clone 2\e-shop-api\MISA.VMHUNG.ESHOP\obj\Debug\net5.0\MISA.VMHUNG.ESHOP.genruntimeconfig.cache
+D:\Code\BTL 2\e-shop-api-final\MISA.VMHUNG.ESHOP\bin\Debug\net5.0\appsettings.Development.json
+D:\Code\BTL 2\e-shop-api-final\MISA.VMHUNG.ESHOP\bin\Debug\net5.0\appsettings.json
+D:\Code\BTL 2\e-shop-api-final\MISA.VMHUNG.ESHOP\bin\Debug\net5.0\MISA.VMHUNG.ESHOP.exe
+D:\Code\BTL 2\e-shop-api-final\MISA.VMHUNG.ESHOP\bin\Debug\net5.0\MISA.VMHUNG.ESHOP.deps.json
+D:\Code\BTL 2\e-shop-api-final\MISA.VMHUNG.ESHOP\bin\Debug\net5.0\MISA.VMHUNG.ESHOP.runtimeconfig.json
+D:\Code\BTL 2\e-shop-api-final\MISA.VMHUNG.ESHOP\bin\Debug\net5.0\MISA.VMHUNG.ESHOP.runtimeconfig.dev.json
+D:\Code\BTL 2\e-shop-api-final\MISA.VMHUNG.ESHOP\bin\Debug\net5.0\MISA.VMHUNG.ESHOP.dll
+D:\Code\BTL 2\e-shop-api-final\MISA.VMHUNG.ESHOP\bin\Debug\net5.0\ref\MISA.VMHUNG.ESHOP.dll
+D:\Code\BTL 2\e-shop-api-final\MISA.VMHUNG.ESHOP\bin\Debug\net5.0\MISA.VMHUNG.ESHOP.pdb
+D:\Code\BTL 2\e-shop-api-final\MISA.VMHUNG.ESHOP\bin\Debug\net5.0\Dapper.dll
+D:\Code\BTL 2\e-shop-api-final\MISA.VMHUNG.ESHOP\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Code\BTL 2\e-shop-api-final\MISA.VMHUNG.ESHOP\bin\Debug\net5.0\MySqlConnector.dll
+D:\Code\BTL 2\e-shop-api-final\MISA.VMHUNG.ESHOP\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Code\BTL 2\e-shop-api-final\MISA.VMHUNG.ESHOP\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Code\BTL 2\e-shop-api-final\MISA.VMHUNG.ESHOP\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Code\BTL 2\e-shop-api-final\MISA.VMHUNG.ESHOP\bin\Debug\net5.0\MISA.VMHUNG.Core.dll
+D:\Code\BTL 2\e-shop-api-final\MISA.VMHUNG.ESHOP\bin\Debug\net5.0\MISA.VMHUNG.Infrastructure.dll
+D:\Code\BTL 2\e-shop-api-final\MISA.VMHUNG.ESHOP\bin\Debug\net5.0\MISA.VMHUNG.Core.pdb
+D:\Code\BTL 2\e-shop-api-final\MISA.VMHUNG.ESHOP\bin\Debug\net5.0\MISA.VMHUNG.Infrastructure.pdb
+D:\Code\BTL 2\e-shop-api-final\MISA.VMHUNG.ESHOP\obj\Debug\net5.0\MISA.VMHUNG.ESHOP.csprojAssemblyReference.cache
+D:\Code\BTL 2\e-shop-api-final\MISA.VMHUNG.ESHOP\obj\Debug\net5.0\MISA.VMHUNG.ESHOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\BTL 2\e-shop-api-final\MISA.VMHUNG.ESHOP\obj\Debug\net5.0\MISA.VMHUNG.ESHOP.AssemblyInfoInputs.cache
+D:\Code\BTL 2\e-shop-api-final\MISA.VMHUNG.ESHOP\obj\Debug\net5.0\MISA.VMHUNG.ESHOP.AssemblyInfo.cs
+D:\Code\BTL 2\e-shop-api-final\MISA.VMHUNG.ESHOP\obj\Debug\net5.0\MISA.VMHUNG.ESHOP.csproj.CoreCompileInputs.cache
+D:\Code\BTL 2\e-shop-api-final\MISA.VMHUNG.ESHOP\obj\Debug\net5.0\MISA.VMHUNG.ESHOP.MvcApplicationPartsAssemblyInfo.cs
+D:\Code\BTL 2\e-shop-api-final\MISA.VMHUNG.ESHOP\obj\Debug\net5.0\MISA.VMHUNG.ESHOP.MvcApplicationPartsAssemblyInfo.cache
+D:\Code\BTL 2\e-shop-api-final\MISA.VMHUNG.ESHOP\obj\Debug\net5.0\staticwebassets\MISA.VMHUNG.ESHOP.StaticWebAssets.Manifest.cache
+D:\Code\BTL 2\e-shop-api-final\MISA.VMHUNG.ESHOP\obj\Debug\net5.0\staticwebassets\MISA.VMHUNG.ESHOP.StaticWebAssets.xml
+D:\Code\BTL 2\e-shop-api-final\MISA.VMHUNG.ESHOP\obj\Debug\net5.0\scopedcss\bundle\MISA.VMHUNG.ESHOP.styles.css
+D:\Code\BTL 2\e-shop-api-final\MISA.VMHUNG.ESHOP\obj\Debug\net5.0\MISA.VMHUNG.ESHOP.RazorTargetAssemblyInfo.cache
+D:\Code\BTL 2\e-shop-api-final\MISA.VMHUNG.ESHOP\obj\Debug\net5.0\MISA.VMHUNG.ESHOP.csproj.CopyComplete
+D:\Code\BTL 2\e-shop-api-final\MISA.VMHUNG.ESHOP\obj\Debug\net5.0\MISA.VMHUNG.ESHOP.dll
+D:\Code\BTL 2\e-shop-api-final\MISA.VMHUNG.ESHOP\obj\Debug\net5.0\ref\MISA.VMHUNG.ESHOP.dll
+D:\Code\BTL 2\e-shop-api-final\MISA.VMHUNG.ESHOP\obj\Debug\net5.0\MISA.VMHUNG.ESHOP.pdb
+D:\Code\BTL 2\e-shop-api-final\MISA.VMHUNG.ESHOP\obj\Debug\net5.0\MISA.VMHUNG.ESHOP.genruntimeconfig.cache

@@ -36,7 +36,8 @@ namespace MISA.VMHUNG.Infrastructure.DataAccess
         {
             var parameters = new DynamicParameters();
             parameters.Add($"@{_className}Id", id, DbType.String);
-            var entity = dbConnection.Query<MISAEntity>($"Proc_Get{_className}ById", parameters, commandType: CommandType.StoredProcedure).FirstOrDefault();
+            var storeName = $"Proc_Get{_className}ById";
+            var entity = dbConnection.Query<MISAEntity>(storeName, parameters, commandType: CommandType.StoredProcedure).FirstOrDefault();
             return entity;
         }
 
@@ -48,8 +49,8 @@ namespace MISA.VMHUNG.Infrastructure.DataAccess
         /// Created By: VM Hùng (12/04/2021)
         public IEnumerable<MISAEntity> GetAll()
         {
-            var entity = dbConnection.Query<MISAEntity>($"Proc_Get{_className}s", commandType: System.Data.CommandType.StoredProcedure);
-
+            var storeName = $"Proc_Get{_className}s";
+            var entity = dbConnection.Query<MISAEntity>(storeName, commandType: System.Data.CommandType.StoredProcedure);
             return entity;
         }
     }
